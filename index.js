@@ -20,5 +20,3 @@ const titleCased = () => {
  })
  return tutorialsCased;
 }
-
-console.log(titleCased(tutorials))
